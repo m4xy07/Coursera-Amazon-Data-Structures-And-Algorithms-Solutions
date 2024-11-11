@@ -12,3 +12,14 @@ I asssume that you should be able to figure that out on your own.
 Else my contact info is present on my [GitHub Profile Page](https://github.com/m4xy07)
 
 Good luck.
+
+
+## FAQ
+
+- In the 2nd Graded Lab (Module 2) While trying to submit you get something like this (Error Loading files)
+![image](https://github.com/user-attachments/assets/3ad6dc89-9395-4ecb-8764-39f520cd26e1)
+
+
+Then contact support via the chat with us, type "Connect me to an agent" in the chatbot, then talk to the agent and say "Hi, I am unable to submit the assignment as it shows Error loading files in my Module 2 Graded Lab in the Data Structures and Algorithms Course" Kindly help me and sort it out. Thank you."
+
+Then they will check and hopefully provide a solution.
