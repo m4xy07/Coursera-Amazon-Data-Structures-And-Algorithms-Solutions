@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23806f03-b976-4659-a402-d96236c9e274" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2l37ivTFrZqA6UyJ1YtxMW1cIIu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.ContactBookTest.testAddContact.executor": "Run",
+    "JUnit.ContactBookTest.testAddContact_onSameNumber_ThrowsIllegalArgumentException.executor": "Run",
+    "JUnit.ContactBookTest.testAddContact_onSizeLimitExceed_returnsFalse.executor": "Run",
+    "JUnit.ContactBookTest.testAddContact_onSizeLimitExceed_returnsFalseAndNotException.executor": "Run",
+    "JUnit.ContactBookTest.testRemoveContactByPhone_found_returnsTrue.executor": "Run",
+    "JUnit.ContactBookTest.testRemoveContactByPhone_notFound_throwsIllegalArgumentException.executor": "Run",
+    "JUnit.ContactBookTest.testSearchContactByPhone.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/coder/coursera/Solution"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ContactBookTest.testRemoveContactByPhone_notFound_throwsIllegalArgumentException">
+    <configuration name="ContactBookTest.testAddContact_onSameNumber_ThrowsIllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C3M3L3Item07_STARTER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContactBookTest" />
+      <option name="METHOD_NAME" value="testAddContact_onSameNumber_ThrowsIllegalArgumentException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactBookTest.testAddContact_onSizeLimitExceed_returnsFalseAndNotException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C3M3L3Item07_STARTER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContactBookTest" />
+      <option name="METHOD_NAME" value="testAddContact_onSizeLimitExceed_returnsFalseAndNotException(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactBookTest.testRemoveContactByPhone_found_returnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C3M3L3Item07_STARTER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContactBookTest" />
+      <option name="METHOD_NAME" value="testRemoveContactByPhone_found_returnsTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactBookTest.testRemoveContactByPhone_notFound_throwsIllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C3M3L3Item07_STARTER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContactBookTest" />
+      <option name="METHOD_NAME" value="testRemoveContactByPhone_notFound_throwsIllegalArgumentException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactBookTest.testSearchContactByPhone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C3M3L3Item07_STARTER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContactBookTest" />
+      <option name="METHOD_NAME" value="testSearchContactByPhone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContactBookTest.testRemoveContactByPhone_notFound_throwsIllegalArgumentException" />
+        <item itemvalue="JUnit.ContactBookTest.testRemoveContactByPhone_found_returnsTrue" />
+        <item itemvalue="JUnit.ContactBookTest.testSearchContactByPhone" />
+        <item itemvalue="JUnit.ContactBookTest.testAddContact_onSameNumber_ThrowsIllegalArgumentException" />
+        <item itemvalue="JUnit.ContactBookTest.testAddContact_onSizeLimitExceed_returnsFalseAndNotException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23806f03-b976-4659-a402-d96236c9e274" name="Changes" comment="" />
+      <created>1724397038644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724397038644</updated>
+    </task>
+    <servers />
+  </component>
+</project>
