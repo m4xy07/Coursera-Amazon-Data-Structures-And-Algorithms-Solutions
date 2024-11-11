@@ -1,0 +1,12 @@
+2024-08-26T11:11:31.043644 - Viewed all books
+2024-08-26T11:16:27.693601800 - Loaded data from books.txt
+2024-08-26T11:16:35.457894200 - Viewed all books
+2024-08-26T11:16:47.129341700 - Sorted by: title
+2024-08-26T11:16:51.917954100 - Sorted by: author
+2024-08-26T11:17:00.406386600 - Sorted by: year
+2024-08-26T11:17:17.501389700 - Search for: 1984
+2024-08-26T11:17:38.088183100 - Search for: george
+2024-08-26T11:17:45.848055600 - Library saved successfully. Exiting...
+2024-08-26T11:17:45.864011400 - Library saved successfully to resources/data/library.ser
+2024-08-26T11:18:22.702356700 - Library loaded successfully from resources/data/library.ser
+2024-08-26T11:18:34.885097200 - Viewed all books
