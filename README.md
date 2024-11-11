@@ -6,7 +6,7 @@ This repo serves to provide solutions to the Coursera Amazon Data Structures and
 These files are the entire solutions to the problems and should work fine if you copy paste the content of every file in the **src** folder (others are output and temp files)
 ### OR
 
-**Easier Method?:** You can open the link to this repo in the chrokme browser in your coursera environment and download the files you need from the src folder for that module and replace it in your working directory.
+**Easier Method?:** You can open the link to this repo in the chrome browser in your coursera environment and download the files you need from the src folder for that module and replace it in your working directory. 
 
 ## Also Important
 > Please do not contact me for  "HOW TO COPY PASTE DIRECTLY IN COURSERA ENVIRONMENT?"
